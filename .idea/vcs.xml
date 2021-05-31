@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GIT/bootcamp_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GIT/tugas-collabs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GIT/tugas-collabs/gitflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootcamp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/games" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kalkulator/kalkulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlin-and-oop-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memoapps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memomvp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nilaimahasiswa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/suitapp" vcs="Git" />
+  </component>
+</project>
